@@ -4,4 +4,4 @@ let numB=30
 let res=numA+numB
 res++ 
 res++
-console.log(res)
+console.log(res+res)
